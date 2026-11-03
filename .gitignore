@@ -1,0 +1,12 @@
+# Patient data - never commit
+*.npy
+*.npz
+*.dcm
+segmentation_ivana/
+seg_outputs/
+seg_outputs_cleaned/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
