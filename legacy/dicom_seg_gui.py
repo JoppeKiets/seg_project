@@ -38,7 +38,7 @@ and rot_deg is stored in the NPZ for reproducibility.
 #import matplotlib.pyplot as plt
 
 # Path to your saved NPZ
-#npz_path = r"C:\Users\320270547\OneDrive - Philips\Desktop\Elsa Segmentation\dicom1\seg_outputs\1.3.46.670589.11.45053.5.0.12348.2024121115502123919.npz"
+#npz_path = r"path/to/seg_outputs/<SOPInstanceUID>.npz"
 
 # Load data
 #data = np.load(npz_path)
